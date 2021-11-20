@@ -1,0 +1,29 @@
+{
+    "name": "compass",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "bluetooth": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "main.blocks"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.1.78",
+        "tag": "v1.1.78",
+        "commits": "https://github.com/Microsoft/pxt-microbit/commits/21e94c550395199a2900af1b8dc75baed5ca7105",
+        "target": "4.0.16",
+        "pxt": "4.1.41",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
