@@ -4,7 +4,9 @@
     "dependencies": {
         "core": "*",
         "bluetooth": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "microbit-GY521": "github:pauldfoster/pxt-microbit-gy521#v0.0.2",
+        "gamepad-demo": "github:gerhard85/gamepad-demo#master"
     },
     "files": [
         "main.ts",
